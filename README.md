@@ -17,4 +17,4 @@ Topologi pada CPT:
 ![cpt](cpt.jpg)
 
 
-Link Spreadsheet: [spreadsheet]([https://pages.github.com/](https://docs.google.com/spreadsheets/d/1R-5RUiRFNYnmo4wpt_uZjjFSROPVhnSZkBJ4baTud0c/edit#gid=0))
+Link Spreadsheet: [https://pages.github.com/](https://docs.google.com/spreadsheets/d/1R-5RUiRFNYnmo4wpt_uZjjFSROPVhnSZkBJ4baTud0c/edit#gid=0)
