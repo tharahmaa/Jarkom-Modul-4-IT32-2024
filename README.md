@@ -17,4 +17,17 @@ Topologi pada CPT:
 ![cpt](cpt.jpg)
 
 
-Link Spreadsheet: [https://pages.github.com/](https://docs.google.com/spreadsheets/d/1R-5RUiRFNYnmo4wpt_uZjjFSROPVhnSZkBJ4baTud0c/edit#gid=0)
+Tree VLSM:
+
+![tree vlsm](vlsm.jpg)
+
+
+Tree CIDR:
+
+![tree cidr](cidr.jpg)
+
+
+Link Spreadsheet: [https://docs.google.com/spreadsheets/d/1R-5RUiRFNYnmo4wpt_uZjjFSROPVhnSZkBJ4baTud0c/edit#gid=0]
+
+
+
